@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://syftnex.com/images/Powering Web and Apps with Intelligence.jpg" alt="Syftnex" width="620" />
+<img src="https://syftnex.com/images/syftnex.svg" alt="Syftnex" width="620" />
 
 
 We build open source tools, SaaS products, and AI-powered infrastructure
