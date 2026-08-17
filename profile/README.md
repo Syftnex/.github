@@ -17,6 +17,7 @@ We build open source tools, SaaS products, and AI-powered infrastructure
 | Product | Description | Status |
 |---|---|---|
 | **Fixly** | AI-powered error monitoring for Laravel applications | 🔨 In Development |
+| **Syfnex HR Payroll** | One Platform. Every Stage of the Employee Journey. | [**Explore Features**](https://syftnex.com/product/hr-payroll/#features) |
 
 ---
 
